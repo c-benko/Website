@@ -12,12 +12,10 @@ and the [University of Colorado, Boulder][cu] under the tutelage of [Jun Ye][ye]
 Find me on [Google+][google] / [LinkedIn][linkedin] / [Github][github] or just say `Hello` at 
 [craigbenko@gmail.com](craigbenko@gmail.com).
 
-The site is powered by [Jekyll][jekyll].
-
 [cu]: http://colorado.edu
 [jila]: http://jila.colorado.edu
 [ye]: http://jilawww.colorado.edu/YeLabs/
 [jekyll]: http://jekyllrb.com
 [github]: https://github.com/c-benko
 [google]: https://plus.google.com/+craigbenko
-[linkedin]: https://www.linkedin.com/in/craigbenko
+[linkedin]: https://www.linkedin.com/in/craigbenko  
