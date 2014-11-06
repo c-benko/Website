@@ -1,13 +1,5 @@
 # Jekyll theme general configurations 
 
-
-# Site live URL
-url: http://c-benko.github.io
-
-# Localhost 
-# url: http://127.0.0.1:4000  
-title: Craig Benko 
-
 owner: 
   name: Craig Benko
   email: craig.benko@gmail.com
