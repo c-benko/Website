@@ -293,7 +293,7 @@ footer.main-footer {
     width: 32px;
     height: 32px;
     background: $base-07;
-    background-image: url("./images/socials-icons.svg");
+      
     background-size: 224px 64px;
     border-radius: 0.25em;
     @include transition(background-color 0.2s);
@@ -477,12 +477,12 @@ body.theme-base-01 {
   }
 
   footer.main-footer {
-    background-color: $base-01;
+    background-color: $base-00;
     color: $base-07;
   }
 
   header.main-header {
-    color: $base-01;
+    color: $base-00;
     ul li { 
       color: $base-08;
     }
