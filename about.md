@@ -9,7 +9,7 @@ and the [University of Colorado, Boulder][cu] under the tutelage of [Jun Ye][ye]
 
 ### Contact me
 
-Find me on [Google+][google] / [LinkedIn][linkedin] / [Github][github] or just say `Hello` at 
+Find me on [Google+][google] / [LinkedIn][linkedin] / [Github][github] or just send me a message at 
 [craigbenko@gmail.com](craigbenko@gmail.com).
 
 [cu]: http://colorado.edu
