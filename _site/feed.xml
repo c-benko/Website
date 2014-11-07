@@ -5,9 +5,23 @@
     <description>Things that generally interest me.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 06 Nov 2014 15:09:43 -0700</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2014 15:09:43 -0700</lastBuildDate>
+    <pubDate>Thu, 06 Nov 2014 17:23:32 -0700</pubDate>
+    <lastBuildDate>Thu, 06 Nov 2014 17:23:32 -0700</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>First commit</title>
+        <description>&lt;p&gt;This is a new site I’m developing. Well, sort of… Thanks to &lt;a href=&quot;http://http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;, all the hard work has been done so I can just &lt;em&gt;stand on the shoulders of giants&lt;/em&gt; and produce something quickly (read ‘no developing’). Hopefully this will be a place to post things that I find interesting and would like to share. &lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 06 Nov 2014 15:36:00 -0700</pubDate>
+        <link>/blog/2014/11/06/First-commit/</link>
+        <guid isPermaLink="true">/blog/2014/11/06/First-commit/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
   </channel>
 </rss>
