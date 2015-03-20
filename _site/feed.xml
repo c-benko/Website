@@ -5,13 +5,27 @@
     <description>Things that generally interest me.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 06 Nov 2014 17:23:32 -0700</pubDate>
-    <lastBuildDate>Thu, 06 Nov 2014 17:23:32 -0700</lastBuildDate>
+    <pubDate>Fri, 20 Mar 2015 11:38:44 -0600</pubDate>
+    <lastBuildDate>Fri, 20 Mar 2015 11:38:44 -0600</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
+        <title>New paper</title>
+        <description>&lt;p&gt;I recently finished up a bit or work in the &lt;a href=&quot;http://jilawww.colorado.edu/YeLabs/&quot;&gt;Ye Lab&lt;/a&gt; that will soon appear in &lt;a href=&quot;http://prl.aps.org&quot;&gt;PRL&lt;/a&gt;. A pre-print is available on the &lt;a href=&quot;http://arxiv.org/abs/1501.01648&quot;&gt;arXiv&lt;/a&gt;. I’m pretty excited about it; I anticipate it to be a useful tool for strong-field physics. I know we have plans to utilize this technique for high-order harmonic generation experiments. However, I think it can be readily extended to other experiments that require aligning molecules. It may also be useful as a clever &lt;em&gt;non-resonant detection&lt;/em&gt; method for looking for alignment signals of hard to detect molecules. The cavity-based approach should offer an increased sensitivity.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 20 Mar 2015 11:15:00 -0600</pubDate>
+        <link>/blog/2015/03/20/New-paper/</link>
+        <guid isPermaLink="true">/blog/2015/03/20/New-paper/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
         <title>First commit</title>
-        <description>&lt;p&gt;This is a new site I’m developing. Well, sort of… Thanks to &lt;a href=&quot;http://http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;, all the hard work has been done so I can just &lt;em&gt;stand on the shoulders of giants&lt;/em&gt; and produce something quickly (read ‘no developing’). Hopefully this will be a place to post things that I find interesting and would like to share. &lt;/p&gt;
+        <description>&lt;p&gt;This is a new site I’m developing. Well, sort of… Thanks to &lt;a href=&quot;http://http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;http://github.com&quot;&gt;GitHub&lt;/a&gt;, all the hard work has been done so I can just produce something quickly. The style of this page is also not my own, but due to the work of &lt;a href=&quot;https://github.com/gayanvirajith/harmony&quot;&gt;Gayan Virajith&lt;/a&gt;. Hopefully this will be a place to post things that I find interesting and would like to share. &lt;/p&gt;
 
 </description>
         <pubDate>Thu, 06 Nov 2014 15:36:00 -0700</pubDate>
