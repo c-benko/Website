@@ -1,17 +1,17 @@
 # Jekyll theme general configurations 
 
-owner: 
+owner:
   name: Craig Benko
   email: craig.benko@gmail.com
   github: c-benko
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Craig Benko 
+  name: Craig Benko
   # Little description about your site
   description: Things that generally interest me.
-  
-  meta_description: > # 
+
+  meta_description: > #
    A collection of things work and play.
 
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
@@ -24,26 +24,26 @@ harmony:
   google_analytics_key: UA-xxxx-x
 
   # Profile links, leave blank to ignore
-  social: 
+  social:
     github: c-benko
-    twitter: 
-    facebook: 
-    gplus: +craigbenko 
-    dribble: 
+    twitter:
+    facebook:
+    gplus: +craigbenko
+    dribble:
     pinterest:
     linkedin: craigbenko
 
   # Toggle disclaimer in footer
   show_disclaimer: true
 
-# Conversion / Build settings 
+# Conversion / Build settings
 markdown:    kramdown
 highlighter: pygments # this is how you put pygments config in jekyll 2.0 instead of pygments: true
 
 # Permalinks
 permalink:        pretty
 
-exclude: 
+exclude:
   - CNAME
   - Gemfile
   - Rakefile
