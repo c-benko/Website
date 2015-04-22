@@ -4,8 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Craig Benko, an atomic, molecular and optical physicist getting a Ph.D. from [JILA][jila]
-and the [University of Colorado, Boulder][cu] under [Jun Ye][ye]. 
+Hi, I am Craig Benko, an atomic, molecular and optical physicist working towards a Ph.D. from [JILA][jila] and the [University of Colorado, Boulder][cu] under [Jun Ye][ye]. 
 
 ### Contact me
 
