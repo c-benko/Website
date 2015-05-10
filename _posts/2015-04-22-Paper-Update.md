@@ -14,4 +14,4 @@ The work I recently finished up a in the [Ye Lab][yelab] appeared in [PRL][prl].
 [arxiv]: http://arxiv.org/abs/1501.01648
 [physics]: http://physics.aps.org/synopsis-for/10.1103/PhysRevLett.114.153001
 [pubs]: http://jila.colorado.edu/yelabs/publications/scientific/year
-[jlm]: https://jila.colorado.edu/news-highlights/bug%E2%80%99s-life-0
+[jlm]: https://jila.colorado.edu/news-highlights/bugs-life
