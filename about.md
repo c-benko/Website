@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I am Craig Benko, an atomic, molecular and optical physicist. I earned my Ph.D. from [JILA][jila] and the [University of Colorado, Boulder][cu] under [Professor Jun Ye][ye]. I currently reside in Bozeman, MT where I work at a small tech company [S2 Corporation][s2]. 
 
-Feel free to browse my [CV][cv]
+Feel free to browse my [CV][cv].
 
 ### Contact me
 
