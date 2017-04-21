@@ -1,2 +1,0 @@
-# Craig Benko
-My website.
