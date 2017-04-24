@@ -16,4 +16,4 @@ A list of my publications can be found at [Google Scholar][scholar]. Feel free t
 [scholar]: http://scholar.google.com/citations?user=z9XQeb4AAAAJ&hl=en
 [ye]: http://jilawww.colorado.edu/YeLabs/
 [jila]: http://jila.colorado.edu
-[cv]: /_downloads/Benko_CV_2017.pdf
+[cv]: https://dl.dropboxusercontent.com/u/3052839/CB_CV_2017_2.pdf
