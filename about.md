@@ -20,4 +20,4 @@ Find me on [LinkedIn][linkedin], [Github][github], or just send me a message at 
 [ye]: http://jilawww.colorado.edu/YeLabs/
 [github]: https://github.com/c-benko
 [linkedin]: https://www.linkedin.com/in/craigbenko  
-[cv]: https://dl.dropboxusercontent.com/u/3052839/CB_CV_2017_2.pdf
+[cv]: https://dl.dropboxusercontent.com/u/3052839/CB_CV_2017_7.pdf
