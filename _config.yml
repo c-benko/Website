@@ -17,9 +17,7 @@ markdown: kramdown
 title:       "Craig Benko, Ph.D."
 keywords:    "Physicist"
 description: "Welcome."
-source_link: "https://github.com/"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+source_link: "https://github.com/c-benko/Website"
 google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
 url:         "https://craigbenko.com"
 
