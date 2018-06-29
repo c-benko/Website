@@ -1,6 +1,6 @@
 ---
 title: "Favorite Quote"
-bg: green
+bg: green2
 color: black
 style: center
 ---
