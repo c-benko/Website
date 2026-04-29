@@ -5,5 +5,6 @@ color: black
 style: center
 ---
 
->It's impossible to lose your footing when you're on your knees. 
->  <cite>Ven. Fulton J. Sheen</cite>
+>By the Grace of God I am a Christian, by my actions a great sinner, and by calling a homeless
+>wanderer of the simplese origins, traveling from place to place.  
+>  <cite>A pilgrim</cite>
